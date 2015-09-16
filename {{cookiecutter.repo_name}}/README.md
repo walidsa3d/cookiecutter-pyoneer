@@ -1,5 +1,5 @@
 
-#{{repo_name}}
+#{{cookiecutter.repo_name}}
 
 ![alt text](https://travis-ci.org/{{cookiecutter.author}}/{{cookiecutter.repo_name}}.svg, "Build")
 {{cookiecutter.repo_description}}
