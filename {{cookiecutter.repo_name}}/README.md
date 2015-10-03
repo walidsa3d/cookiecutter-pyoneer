@@ -1,7 +1,7 @@
 
 #{{cookiecutter.repo_name}}
 
-![alt text](https://travis-ci.org/{{cookiecutter.author}}/{{cookiecutter.repo_name}}.svg, "Build")
+![alt text](https://travis-ci.org/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}.svg, "Build")
 {{cookiecutter.repo_description}}
 ##Overview
 

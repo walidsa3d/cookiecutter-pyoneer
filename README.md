@@ -1,24 +1,19 @@
 
 #cookiecutter-pyoneer
 
-A cookiecutter template for open source projects.
+A cookiecutter template for open source packages.
 
-##Overview
-
-##Install (automatic)
-```
-```
-##Install (manual)
+#Installation
 ```
 $ cookiecutter git@github.com:walidsa3d/cookiecutter-pyoneer.git
 ```
-##Usage
+#Usage
 ```
+cookiecutter cookiecutter-pyoneer
 ```
-###Demo
 
-
-##License
+#License
+```
 The MIT License (MIT)
 Copyright (c) 2015 Walid Saad
 
@@ -39,3 +34,4 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
 DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
 OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
 OR OTHER DEALINGS IN THE SOFTWARE.
+```
