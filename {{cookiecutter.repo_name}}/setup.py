@@ -7,7 +7,6 @@ try:
 except ImportError:
     print "warning: pypandoc module not found, could not convert Markdown to RST"
     read_md = lambda f: open(f, 'r').read()
-requires = [i.strip() for i in open("requirements.txt").readlines()]
 
 setup(
     name="{{cookiecutter.repo_name}}",
@@ -18,12 +17,17 @@ setup(
     author_email="{{cookiecutter.author_email}}",
     url="https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}",
     packages=find_packages(),
-    package_data={'': ['LICENSE']},
     include_package_data=True,
-    install_requires=requires,
     test_suite="tests",
     license="{{cookiecutter.license}}",
     zip_safe=False,
-    classifiers=(
-    )
+    classifiers=[
+        'Development Status :: 4 - Beta',
+        'Environment :: Console',
+        'Intended Audience :: Developers',
+        'License :: OSI Approved :: MIT License',
+        'Operating System :: Unix',
+        'Programming Language :: Python :: 2.7',
+        'Topic :: Utilities'
+    ]
 )

@@ -1,12 +1,12 @@
 
 #{{cookiecutter.repo_name}}
 
-![alt text](https://travis-ci.org/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}.svg, "Build")
 {{cookiecutter.repo_description}}
 ##Overview
 
 ##Install (automatic)
 ```
+$ pip install {{cookiecutter.repo_name}}
 ```
 ##Install (manual)
 ```
