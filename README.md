@@ -1,4 +1,3 @@
-
 #cookiecutter-pyoneer
 
 A cookiecutter template for open source packages.
