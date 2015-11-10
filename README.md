@@ -1,17 +1,24 @@
-#cookiecutter-pyoneer
+# cookiecutter-pyoneer
 
 A cookiecutter template for open source packages.
 
-#Installation
-```
+## Installation
+```sh
 $ cookiecutter git@github.com:walidsa3d/cookiecutter-pyoneer.git
 ```
-#Usage
+## Usage
+```sh
+$ cookiecutter cookiecutter-pyoneer
 ```
-cookiecutter cookiecutter-pyoneer
-```
+## Features
+- Continuous integration using Travis.CI
+- Testing using Py.test
+- Ready-to-use BumpVersion configuration
+- MIT License initialized with your data.
+- Pre-included badges for PyPI and Travis
+- Pre-filled README.md stub
 
-#License
+# License
 ```
 The MIT License (MIT)
 Copyright (c) 2015 Walid Saad

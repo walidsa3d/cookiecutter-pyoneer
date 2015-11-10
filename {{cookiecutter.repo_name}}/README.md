@@ -1,4 +1,3 @@
-
 # {{cookiecutter.repo_name}}
 ![Build](https://travis-ci.org/walidsa3d/{{cookiecutter.repo_name}}.svg?branch=master)
 ![downloads](https://img.shields.io/pypi/dm/{{cookiecutter.repo_name}}.svg)
