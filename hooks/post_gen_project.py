@@ -1,4 +1,2 @@
-import os
-
-os.system(
-    'lice {{cookiecutter.license}} -y 2015 -o "{{cookiecutter.author}}" >>LICENSE')
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-

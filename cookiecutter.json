@@ -5,5 +5,6 @@
 "author_email":"walid.sa3d@gmail.com",
 "version":"0.0.0",
 "license":"mit",
-"github_username":"walidsa3d"
+"github_username":"walidsa3d",
+"license": ["MIT", "BSD-3"]
 }
