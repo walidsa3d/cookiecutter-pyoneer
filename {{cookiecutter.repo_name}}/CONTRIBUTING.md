@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Please ensure your pull request adheres to the following guidelines:
+Please read the Code of Conduct before contributing and make sure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure the your addition is useful before submitting.
