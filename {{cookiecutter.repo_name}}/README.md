@@ -24,4 +24,4 @@ $ python setup.py install
 
 
 ## License
-{{license}}
+{{cookiecutter.license}}
