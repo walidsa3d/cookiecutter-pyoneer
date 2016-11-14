@@ -13,7 +13,7 @@ $ pip install {{cookiecutter.repo_name}}
 ```
 ## Install (manual)
 ```
-$ git clone {{cookiecutter.url}}
+$ git clone git@github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}
 $ cd {{cookiecutter.repo_name}}
 $ python setup.py install
 ```
